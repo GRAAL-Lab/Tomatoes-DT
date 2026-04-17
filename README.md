@@ -2,8 +2,6 @@
 
 A ROS-based system for tomato detection, 3D visualization, and robot manipulation using the TIAGo robot.
 
----
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -15,7 +13,6 @@ A ROS-based system for tomato detection, 3D visualization, and robot manipulatio
 - [Real Robot Setup](#real-robot-setup)
 - [Octomap in Simulation](#octomap-in-simulation)
 
----
 
 ## Getting Started
 
